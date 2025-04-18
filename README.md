@@ -9,5 +9,5 @@ I have downloaded this Coffee Shop Sales dataset from Mavenanalytics which conta
 
 - Which products are sold most and least often? Which drive the most revenue for the business?
 
-I've created a dashboard based on this dataset to get the detailed analysis.
+I've created a dashboard based on this dataset to get the detailed analysis using MS-Excel.
 Also I've created different pivot tables, slicers, trackers for the given dataset to get insight about different business problems.
